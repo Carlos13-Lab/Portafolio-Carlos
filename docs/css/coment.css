@@ -1,0 +1,40 @@
+.coment_section {
+    display: flex;
+    text-align: center;  
+    position: static;
+    flex-direction: column;
+    justify-content: center;
+    block-size: 100px;
+    gap: 16px;
+    height: 100%; 
+  padding-inline-end: 20px;
+  padding-inline-start: 20px;
+ overflow: hidden;
+ margin-top: 159px;
+margin-bottom: 150px;
+}
+
+.coment_section1__p{
+    font-size: 19px;
+}
+.coment_section1__h1 {
+    font-size: 30px;
+}
+.flecha__img {
+    position: relative;
+}
+
+.coment h1{
+    font: var(--headline5);
+}
+
+.coment p {
+    font-family: Oxygen, sans-serif;
+    font-size: x-large;
+    text-align: center;
+
+  
+
+}
+
+

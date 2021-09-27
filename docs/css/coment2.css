@@ -1,0 +1,25 @@
+.coment__Section2 {
+border-radius: 30px;
+background: var(--gradiend);
+border: 3px solid var(--white);
+overflow: hidden;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 80px 10px;
+
+position: static;
+width: auto;
+height: 253px;
+left: 0px;
+}
+
+
+@media screen and (min-width: 764px) {
+    .coment__Section2 {
+        
+margin-left: 60px;
+margin-right: 60px;
+    }
+}

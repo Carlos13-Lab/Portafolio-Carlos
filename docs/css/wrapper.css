@@ -1,0 +1,8 @@
+.wrapper {
+    max-inline-size: 1158px;
+    padding-inline-end: 16px;
+    padding-inline-start: 16px;
+    margin:auto;
+    border: 1px solid #7394eb;
+    border-radius: 22px;
+}
